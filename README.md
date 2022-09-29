@@ -148,7 +148,7 @@ Content-Type: application/json; charset=utf-8
 }
 ```
 
-Donde un contributos es:
+Donde un contributor es:
 
 | Field         | Type   | Description                                                                                                |
 | ------------- | ------ | ---------------------------------------------------------------------------------------------------------- |
